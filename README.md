@@ -14,7 +14,7 @@ Os # servem pra títulos, cabeçalhos e afins. Quanto mais # menor fica
 - 💘 I'm also unapologetically a huge fan of JetBrains' IDEs.
 - 👹 I'm addicted to knowing how things work, so if you want me to work with something I don't know, just tell me what to look at, I'll devour it.
 <!-- Colocar um nome entre [Exemplo] colado com um endereço entre parêntesis, torna ele um link pro endereço colado a ele-->
-- Get in  touch with me: [LinkedIn](https://www.linkedin.com/in/harry-yazawa/) | e-mail 📫 victorlbamorim@gmail.com
+- 🤙🏻 Get in  touch with me: [LinkedIn](https://www.linkedin.com/in/harry-yazawa/) | e-mail 📫 victorlbamorim@gmail.com
 
 <!-- As próximas linhas são fileiras de ícones de tecnologias nas quais já mexi. No final desse template tem links pros repositórios de alguns, daí tu pega o link do arquivo raw (vai ter extensão .svg) e usa no src das imagens, exemplo:
 <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
