@@ -8,7 +8,7 @@ Os # servem pra títulos, cabeçalhos e afins. Quanto mais # menor fica
 - ✌🏻 Heyo! Name's Harry Yazawa. Not my birthname (as you can find out pretty easily) but the one I answer Hello to.
 - 🤯 My academic background is very diverse just like my journey in coding, going from Linguistics to Journalism (majors), then to Political Sciences and now Software Engineering (both post-grads).
 - ☝🏻 Not because of indecision, but more like an addiction to knowing more.
-- 👨‍💻 I have been studying Java, Flutter, .NET, but I've got my way around Python too. I also feel in love with Angular and React, so I'm going all the way to Full-Stack Heaven I suppose.
+- 👨‍💻 I have been studying .NET, but I've got my way around Python and Java too. I also fell in love with Angular and React, so I'm going all the way to Full-Stack Heaven I suppose.
 - 💻 Currently I've been freelancing. Even teaching English as a Second Language (remotely) to people from all walks-of-life that wanted to improve their conversation skills, while I don't settle in my new career as a developer.
 - ✅ Feel free to invite me for coding collaborations, there is no such thing as too many opportunities when knowledge is at the forefront.
 - 💘 I'm also unapologetically a huge fan of JetBrains' IDEs.
