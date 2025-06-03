@@ -6,15 +6,14 @@ Os # servem pra títulos, cabeçalhos e afins. Quanto mais # menor fica
 
 <!-- Uma listinha das informações mais básicas aqui vai bem. Emojis a gosto, coloque o que achar adequado -->
 - ✌🏻 Heyo! Name's Harry Yazawa. Not my birthname (as you can find out pretty easily) but the one I answer Hello to.
-- 🤯 My academic background is very diverse just like my journey in coding, going from Linguistics to Journalism (majors), then to Political Sciences and now Software Engineering (both post-grads).
+- 🤯 My academic background is very diverse just like my journey in coding, going from Linguistics to Journalism (majors), then to Political Sciences, Software Engineering (both especializations) and then back to undergraduation in System Analysis and Development (which leads to a very weirdly funny acronym, doesn't it?).
 - ☝🏻 Not because of indecision, but more like an addiction to knowing more.
-- 👨‍💻 I have been studying .NET, but I've got my way around Python and Java too. I also fell in love with Angular and React, so I'm going all the way to Full-Stack Heaven I suppose.
-- 💻 Currently I've been freelancing. Even teaching English as a Second Language (remotely) to people from all walks-of-life that wanted to improve their conversation skills, while I don't settle in my new career as a developer.
+- 👨‍💻 I'm going all the way to Full-Stack Heaven I suppose, as I dabble with Java, C#, Angular, UI/UX, crazy stuff.
 - ✅ Feel free to invite me for coding collaborations, there is no such thing as too many opportunities when knowledge is at the forefront.
 - 💘 I'm also unapologetically a huge fan of JetBrains' IDEs.
 - 👹 I'm addicted to knowing how things work, so if you want me to work with something I don't know, just tell me what to look at, I'll devour it.
 <!-- Colocar um nome entre [Exemplo] colado com um endereço entre parêntesis, torna ele um link pro endereço colado a ele-->
-- 🤙🏻 Get in  touch with me: [LinkedIn](https://www.linkedin.com/in/harry-yazawa/) | e-mail 📫 victorlbamorim@gmail.com
+- 🤙🏻 Get in  touch with me: [LinkedIn](https://www.linkedin.com/in/harry-yazawa/) | e-mail 📫 harryamorim@proton.me
 
 <!-- As próximas linhas são fileiras de ícones de tecnologias nas quais já mexi. No final desse template tem links pros repositórios de alguns, daí tu pega o link do arquivo raw (vai ter extensão .svg) e usa no src das imagens, exemplo:
 <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
@@ -30,7 +29,6 @@ Os # servem pra títulos, cabeçalhos e afins. Quanto mais # menor fica
     <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"/>
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"/>
     <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"/>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
     <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>  
